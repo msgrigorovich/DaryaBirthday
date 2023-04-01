@@ -23,6 +23,7 @@ public class Ball : MonoBehaviour
     void Start()
     {
         physics.isKinematic = true;
+        gameObject.tag = "Player";
     }
     void Update()
     {
@@ -57,7 +58,7 @@ public class Ball : MonoBehaviour
     {
         return Camera.main.ScreenToViewportPoint(Input.mousePosition);
     }
-    private void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter(Collider collision)
     {
         
     }
