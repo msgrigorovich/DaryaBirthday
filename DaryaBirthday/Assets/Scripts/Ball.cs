@@ -8,8 +8,6 @@ public class Ball : MonoBehaviour
 {
     public float maxBallSpeed = 50f;
 
-    
-
     public float force = 1000f;
     public GameObject ballPrediction;
 
@@ -59,5 +57,8 @@ public class Ball : MonoBehaviour
     {
         return Camera.main.ScreenToViewportPoint(Input.mousePosition);
     }
-    
+    private void OnTriggerEnter(Collider other)
+    {
+        
+    }
 }
