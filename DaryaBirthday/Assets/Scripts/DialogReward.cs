@@ -13,6 +13,7 @@ public class DialogReward : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         {
             panelReward.SetActive(true);
+            /*Time.timeScale = 0;*/
         }
     }
 }
