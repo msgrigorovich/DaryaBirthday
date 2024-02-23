@@ -6,7 +6,7 @@ Especially Daria Ivanova!
 </p>
 
 This repository contains a project that I did for my colleague’s ([Daria Ivanova](https://github.com/Numilou)) birthday.
-Daria, happy birthday again (even if it has already passed)!
+Daria, happy birthday again (_even if it has already passed_)!
 
 The essence of the game is terribly simple! You need to:
 * Launch it; 
