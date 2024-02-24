@@ -1,6 +1,10 @@
 <h1 align = "center">
-Hi Everyone!
+DaryaBirthday
 </h1>
+
+<p align = "center">
+Hi Everyone!
+</p>
 <p align = "center">
 Especially Daria Ivanova!
 </p>
